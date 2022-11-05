@@ -7,6 +7,6 @@ The comparison and analysis focus on
 2. different complexity of the models, one convolution layer vs multiple convolution layer,
 3. same model on different datasets.
 
-The source code is provided with reference of multiple sources available on-line.
+The source code is provided in the code folder.
 
 The results are summarized in the diagram.
